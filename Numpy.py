@@ -1,5 +1,5 @@
 import numpy as np
-import matplotlib.pyplot as plt
+import matplotlib_practice.pyplot as plt
 from numpy.linalg import inv, qr   #矩阵操作的标准函数集
 # arr = np.array([3.7, 3.2, 0.9])
 # arr1 = arr.astype(np.int32)   #产生了一个新的数组，与arr无关
